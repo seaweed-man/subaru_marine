@@ -1,7 +1,7 @@
 # Site settings
-title: スバルマリン
+title: 昴マリン
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: "昴マリン スバルマリン" # this means to ignore newlines until "baseurl:"
 baseurl: "/subaru_marine" # the subpath of your site, e.g. /blog/
 url: "https://seaweed-man.github.io" # the base hostname & protocol for your site
 
